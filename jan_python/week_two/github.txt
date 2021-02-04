@@ -1,0 +1,14 @@
+Initializing a New Repo
+
+-   navigate to directory you want to host on github
+-   git init
+-   git add .
+-   git commit -m "first commit"
+-   git add origin [url]
+-   git push -u origin master
+
+Pushing to github
+
+-   git add .
+-   git commit -m "my commit message"
+-   git push
